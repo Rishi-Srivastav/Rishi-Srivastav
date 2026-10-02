@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Rishi-Srivastav"><img src="https://img.shields.io/badge/GitHub-Rishi--Srivastav-181717?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/rishi-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-Rishi%20Srivastav-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rishisrivastav/"><img src="https://img.shields.io/badge/LinkedIn-Rishi%20Srivastav-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=Rishi-Srivastav&style=flat&label=Profile+Views" alt="Profile views">
 </p>
 
